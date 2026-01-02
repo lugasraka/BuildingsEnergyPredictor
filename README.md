@@ -1,5 +1,7 @@
 # EcoProphet MVP: Building Heating Load Regression
 
+## 🚀 [**Reproducible Notebook/Data Science Experiment**](https://colab.research.google.com/drive/11vo-a-HKA-iGxGpu7WVnGBOGNfzwvEoD?usp=sharing)
+
 ## Background
 - Commercial and residential buildings drive a large share of energy consumption; better early-stage design decisions can cut heating demand and costs.
 - This MVP explores fast, interpretable prediction of heating load using a lightweight linear model, suitable for embedding into a product workflow before investing in heavier models.
